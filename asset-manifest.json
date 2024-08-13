@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/CodeTutorial4Web/bmi-calc.git/static/css/main.a74a4845.css",
-    "main.js": "/CodeTutorial4Web/bmi-calc.git/static/js/main.98c20cc3.js",
-    "index.html": "/CodeTutorial4Web/bmi-calc.git/index.html",
-    "main.a74a4845.css.map": "/CodeTutorial4Web/bmi-calc.git/static/css/main.a74a4845.css.map",
-    "main.98c20cc3.js.map": "/CodeTutorial4Web/bmi-calc.git/static/js/main.98c20cc3.js.map"
+    "main.css": "/bmi-calc/static/css/main.a74a4845.css",
+    "main.js": "/bmi-calc/static/js/main.98c20cc3.js",
+    "index.html": "/bmi-calc/index.html",
+    "main.a74a4845.css.map": "/bmi-calc/static/css/main.a74a4845.css.map",
+    "main.98c20cc3.js.map": "/bmi-calc/static/js/main.98c20cc3.js.map"
   },
   "entrypoints": [
     "static/css/main.a74a4845.css",
